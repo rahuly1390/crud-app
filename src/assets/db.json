@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "title": "Android AsyncTask Example",
+      "category": "Android",
+      "id": 1
+    },
+    {
+      "title": "Angular5 Web API",
+      "category": "Web",
+      "id": 2
+    },
+    {
+      "title": "New API",
+      "category": "Web",
+      "id": 3
+    }
+  ]
+}
